@@ -355,5 +355,3 @@
 .. parsed-literal::
 
     i w4n7 70 347 50m3 3gg5
-    
-(don't mind)
